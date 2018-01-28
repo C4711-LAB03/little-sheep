@@ -9,10 +9,12 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jan 26, 2018
 
 ## New Components
-- Add "picassos" Database and 
+- Add models.Images.php to handle web site image data
+- Add "picassos" Database
     
 ## Updated Components
-- Link "picassos" DB to website with database.php and autoload.php
+- Link model.Images.php to web site with autoload.php
+- Link "picassos" DB to web site with database.php and autoload.php
 
 ## *Version 0.1*
 
