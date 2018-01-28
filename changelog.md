@@ -9,10 +9,10 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jan 26, 2018
 
 ## New Components
-- 
+- Add "picassos" Database and 
     
 ## Updated Components
-- 
+- Link "picassos" DB to website with database.php and autoload.php
 
 ## *Version 0.1*
 
