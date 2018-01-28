@@ -17,4 +17,7 @@ Release Date: Jan 26, 2018
 ## Updated Components
 - Update menu links in following view files: about.php, gallery.php and welcome.php
 - Modify Welcome.php Controller file to point to welcome view
-
+- Updated views/template.php to be an actual template for site
+- Removed duplicating code from views/about.php, views/gallery.php, and views/welcome.php
+- Updated the controllers About.php, Gallery.php, and Welcome.php to load the template
+- Updated the page title in core/My_Controller.php
