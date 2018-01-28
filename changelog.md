@@ -9,11 +9,14 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jan 26, 2018
 
 ## New Components
+- Add find newest images function to Image.php model
 - Add _cell.php view to define a single image loading parameter.
 - Add Images.php to handle web site image data
 - Add "picassos" Database
     
 ## Updated Components
+- Update welcome.php view with Welcome.php controller logic to display table
+  of 3 newest images.
 - Change gallery.php model and Gallery.php view to dynamically load images as cells
   into a table.
 - Link Images.php to web site with autoload.php
