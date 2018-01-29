@@ -22,6 +22,9 @@ Release Date: Jan 26, 2018
 - Link Images.php to web site with autoload.php
 - Link "picassos" DB to web site with database.php and autoload.php
 
+## Hot-Fixes
+- Fixed file ignoring issue in Git
+
 ## *Version 0.1*
 
 Release Date: Jan 26, 2018
